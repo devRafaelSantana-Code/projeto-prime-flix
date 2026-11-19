@@ -351,6 +351,7 @@ Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 ---
 
 <p align="center"> Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em React, JavaScript, consumo de APIs REST, gerenciamento de estados e desenvolvimento de interfaces responsivas. </p>
