@@ -1,24 +1,8 @@
 # 🎬 Prime Flix — Aplicação de Cinema com React e REST API
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)" alt="React">
-&#x20; \<img src="[https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)" alt="React Router">
-&#x20; \<img src="[https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)" alt="Axios">
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3">
-&#x20; \<img src="[https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white](https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)" alt="TMDB API">
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)" alt="JavaScript">
-\</p>
+\<p align="center"> \<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)" alt="React"> \<img src="[https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)" alt="React Router DOM"> \<img src="[https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)" alt="Axios"> \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)" alt="JavaScript"> \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3"> \<img src="[https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white](https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)" alt="TMDB API"> \</p>
 
-\<p align="center">
-&#x20; \<a href="#-sobre-o-projeto">Sobre o Projeto\</a> •
-&#x20; \<a href="#-funcionalidades">Funcionalidades\</a> •
-&#x20; \<a href="#-arquitetura-e-rotas">Arquitetura\</a> •
-&#x20; \<a href="#-sistema-de-temas">Theme System\</a> •
-&#x20; \<a href="#-tecnologias-e-conceitos">Tecnologias\</a> •
-&#x20; \<a href="#-estrutura-do-projeto">Estrutura\</a> •
-&#x20; \<a href="#-como-executar">Execução\</a> •
-&#x20; \<a href="#-aprendizados">Aprendizados\</a>
-\</p>
+\<p align="center"> \<a href="#-sobre-o-projeto">Sobre\</a> • \<a href="#-visualização-do-projeto">Visualização\</a> • \<a href="#-funcionalidades">Funcionalidades\</a> • \<a href="#-arquitetura-e-rotas">Arquitetura\</a> • \<a href="#-sistema-de-temas-theme-system">Theme System\</a> • \<a href="#-tecnologias-e-conceitos">Tecnologias\</a> • \<a href="#-estrutura-do-projeto">Estrutura\</a> • \<a href="#-como-executar">Execução\</a> \</p>
 
 ---
 
@@ -31,6 +15,22 @@ Construída com **React**, a aplicação integra a API REST do **The Movie Datab
 O projeto foi desenvolvido com base nos desafios da plataforma **Sujeito Programador**, aplicando conceitos de desenvolvimento front-end, consumo de APIs externas, gerenciamento de estados, navegação dinâmica e persistência de dados no navegador.
 
 A interface apresenta uma experiência cinematográfica com alternância entre temas escuro e claro, notificações visuais, paginação, páginas de detalhes e gerenciamento de filmes favoritos.
+
+---
+
+## 🌎 Visualização do Projeto
+
+\<p align="center">
+&#x20; \<a href="[https://projeto-prime-flix-psi.vercel.app/](https://projeto-prime-flix-psi.vercel.app/)" target="\_blank">
+&#x20; \<img src="[https://img.shields.io/badge/Visualizar_Projeto_Online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Visualizar_Projeto_Online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)" alt="Visualizar Projeto Online na Vercel">
+&#x20; \</a>
+\</p>
+
+\<p align="center">
+&#x20; \<a href="[https://projeto-prime-flix-psi.vercel.app/](https://projeto-prime-flix-psi.vercel.app/)" target="\_blank">
+&#x20; \<strong>🚀 Acessar Prime Flix\</strong>
+&#x20; \</a>
+\</p>
 
 ---
 
@@ -334,6 +334,4 @@ Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack 
 
 ---
 
-\<p align="center">
-&#x20; Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em React, JavaScript, consumo de APIs REST, gerenciamento de estados e desenvolvimento de interfaces responsivas.
-\</p>
+\<p align="center"> Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em React, JavaScript, consumo de APIs REST, gerenciamento de estados e desenvolvimento de interfaces responsivas. \</p>
