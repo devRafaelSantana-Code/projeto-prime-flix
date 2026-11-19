@@ -1,0 +1,190 @@
+.movie-details-wrapper {
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 36px 24px 64px;
+}
+
+.movie-details-card {
+   background: var(--bg-secondary);
+   border: 1px solid var(--border-glass);
+   border-radius: var(--radius-lg);
+   padding: 28px;
+   box-shadow: var(--shadow-card);
+}
+
+.back-link {
+   display: inline-block;
+   margin-bottom: 20px;
+   color: var(--text-secondary);
+   font-size: 0.9rem;
+   font-weight: 500;
+   text-decoration: none;
+   transition: var(--transition);
+}
+
+.back-link:hover {
+   color: var(--accent-primary);
+}
+
+.movie-backdrop {
+   width: 100%;
+   aspect-ratio: 16 / 9;
+   border-radius: var(--radius-md);
+   overflow: hidden;
+   background: var(--bg-placeholder);
+   margin-bottom: 28px;
+}
+
+.movie-backdrop img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+.backdrop-placeholder {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+   color: var(--text-secondary);
+}
+
+.movie-title-row {
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   gap: 16px;
+   margin-bottom: 16px;
+}
+
+.movie-title-row h1 {
+   font-size: 2rem;
+   font-weight: 800;
+   line-height: 1.25;
+}
+
+.movie-title-row h1 span {
+   color: var(--text-secondary);
+   font-weight: 400;
+}
+
+.movie-rating {
+   flex-shrink: 0;
+   padding: 8px 14px;
+   background: #f59e0b1f;
+   border: 1px solid #f59e0b4d;
+   border-radius: var(--radius-sm);
+   color: var(--gold);
+   font-size: 1.1rem;
+   font-weight: 700;
+}
+
+.movie-rating small {
+   color: var(--text-secondary);
+   font-size: 0.85rem;
+   font-weight: 500;
+}
+
+.movie-genres {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 8px;
+   margin-bottom: 24px;
+}
+
+.genre-tag {
+   padding: 5px 12px;
+   background: var(--bg-subtle);
+   border: 1px solid var(--border-glass);
+   border-radius: 999px;
+   color: var(--text-secondary);
+   font-size: 0.8rem;
+   font-weight: 500;
+}
+
+.movie-synopsis {
+   margin-bottom: 32px;
+}
+
+.movie-synopsis h2 {
+   font-size: 1.15rem;
+   font-weight: 700;
+   margin-bottom: 10px;
+   color: var(--text-primary);
+}
+
+.movie-synopsis p {
+   color: var(--text-secondary);
+   font-size: 1rem;
+   line-height: 1.7;
+}
+
+.buttons-area {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 14px;
+}
+
+.btn-primary,
+.btn-secondary {
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+   padding: 12px 24px;
+   font-size: 0.95rem;
+   font-weight: 600;
+   text-decoration: none;
+   border-radius: var(--radius-sm);
+   cursor: pointer;
+   transition: var(--transition);
+}
+
+.btn-primary {
+   color: #ffffff;
+   background: var(--accent-gradient);
+   border: 0;
+}
+
+.btn-primary:hover {
+   transform: translateY(-2px);
+   box-shadow: 0 6px 20px #06b6d459;
+}
+
+.btn-secondary {
+   color: var(--text-primary);
+   background: var(--bg-subtle);
+   border: 1px solid var(--border-glass);
+}
+
+.btn-secondary:hover {
+   background: var(--bg-subtle-hover);
+   transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+   .movie-details-wrapper {
+      padding: 20px 16px 48px;
+   }
+
+   .movie-details-card {
+      padding: 18px;
+   }
+
+   .movie-title-row {
+      flex-direction: column;
+   }
+
+   .movie-title-row h1 {
+      font-size: 1.5rem;
+   }
+
+   .buttons-area {
+      flex-direction: column;
+   }
+
+   .btn-primary,
+   .btn-secondary {
+      width: 100%;
+   }
+}
