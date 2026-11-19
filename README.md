@@ -346,7 +346,7 @@ O projeto contribuiu para aprofundar conhecimentos em React, integração com se
 
 Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack e Engenharia de Software.
 
-<p align="center"> <a href="[https://github.com/devRafaelSantana-Code](https://github.com/devRafaelSantana-Code)" target="\_blank"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"> </a> </p>
+<p align="center"> <a href="[https://github.com/devRafaelSantana-Code](https://github.com/devRafaelSantana-Code)" target="\_blank"><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"> </a> </p>
 
 ---
 
